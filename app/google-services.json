@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1080675667804",
+    "firebase_url": "https://farmer-app-2ec17-default-rtdb.firebaseio.com",
+    "project_id": "farmer-app-2ec17",
+    "storage_bucket": "farmer-app-2ec17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080675667804:android:6c7b1bfaff087c1087fb99",
+        "android_client_info": {
+          "package_name": "com.project.farmerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7BBZ5yNHcTTpY3lxWZrbdid0EJDoC6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
